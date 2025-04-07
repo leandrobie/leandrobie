@@ -10,8 +10,7 @@
 
 
     
-- 📚 My English proficiency level is B1+, on track to C2.
-
+- 📚  I'm B1+ in English, but I'm still taking classes at a language school to reach C1.
 
 
 - 📫 Reach out to me at: [lean.bie@hotmail.com](mailto:lean.bie@hotmail.com)
