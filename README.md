@@ -4,7 +4,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-- 🌱 I’m currently in my second year of an IT course of studies at National University of La Plata, currently learning..    
+- 🌱 I’m in my second year of an IT course of studies at National University of La Plata, currently learning..    
   - **.NET framework** with C# and Object-Oriented Programming (OOP) principles.  
   - **Database fundamentals**: Design, and optimization. 
 
