@@ -10,7 +10,7 @@
 
 
     
-- 📚  I'm B1+ in English, but I'm still taking classes at a language school to reach C1.
+- 📚  I'm B1+ in English, but I'm still taking classes at a language school to reach C2.
 
 
 - 📫 Reach out to me at: [lean.bie@hotmail.com](mailto:lean.bie@hotmail.com)
